@@ -1,7 +1,5 @@
-
 p, h5 {
   font-family: Georgia;
-
 }
 
 h1 {
@@ -14,10 +12,6 @@ h2.destination {
 
 .title {
   color: teal;
-}
-
-.uppercase {
-  text-transform: uppercase;
 }
 .publish-time {
   color: gray;
